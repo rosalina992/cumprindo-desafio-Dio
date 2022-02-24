@@ -1,2 +1,2 @@
-# cumprindo-desafio-Dio
-Desafio do curso GIT/GIHUB da plataforma Dio
+# Repositório do desafio do curso Git/Github
+ curso GIT/GIHUB da plataforma Dio
